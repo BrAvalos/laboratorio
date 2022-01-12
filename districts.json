@@ -1,0 +1,7 @@
+{ 
+    "provinces" :[
+    { "province":"Western", "name":"Colombo" },
+    { "province":"Western", "name":"Gampaha" },
+    { "province":"Western", "name":"Kalutara"}
+    ]
+}
